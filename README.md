@@ -24,4 +24,5 @@ To get started with this project, you need to have Python 3.x installed. You can
 
 
 ## References
-+https://youtube.com/playlist?list=PLy3lFw0OTlutzXFVwttrtaRGEEyLEdnpy&si=og29wc1qrXGalG-7
+[YouTube](https://youtube.com/playlist?list=PLy3lFw0OTlutzXFVwttrtaRGEEyLEdnpy&si=og29wc1qrXGalG-7)
+
