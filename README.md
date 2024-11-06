@@ -8,8 +8,12 @@ To get started with this project, you need to have Python 3.x installed. You can
 1. Clone this repository:
    ```bash
    git clone https://github.com/punneko/beginner-data-project.git
-2. Navigate to the project folder: cd beginner-data-project
-3. Install the required dependencies from requirements.txt: pip install -r requirements.txt
+2. Navigate to the project folder:
+   ```bash
+   cd beginner-data-project
+3. Install the required dependencies from requirements.txt:
+   ```bash
+   pip install -r requirements.txt
 4. You can now start working with the project. Open the Jupyter notebook or run the Python scripts directly.
 
 ## Technologies Used
